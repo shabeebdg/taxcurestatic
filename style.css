@@ -85,8 +85,63 @@ body {
     .image-two {
         /* width: 250px;
         height: 250px; */
-        
+
         width: 300px;
         height: 300px;
     }
+}
+.bottom-img
+{
+    width:100% ;
+}
+
+/*--------Treatments section---------*/
+
+#Treatments
+{
+    padding: 80px 0;
+    text-align: center;
+}
+.Treatments-img
+{
+    width: 100px;
+    margin-top: 20px;
+    
+}
+.audit-img
+{
+    width: 91px;
+    margin-top: 20px;
+    
+}
+
+
+.Treatments
+{
+    padding: 20px;
+}
+.Treatments h4
+{
+margin: 5px;
+margin-top: 25px;
+
+}
+.second-head::before
+{
+content: '';
+background:rgb(16, 31, 50) ;
+height: 5px;
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+margin-top: -20px;
+transform: translateY(60px);
+
+}
+.accounting-img
+{
+    width: 70px;
+    margin-top: 20px;
+    
 }
