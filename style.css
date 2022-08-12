@@ -145,3 +145,59 @@ transform: translateY(60px);
     margin-top: 20px;
     
 }
+.discription
+{
+    margin-top: 30px;
+    font-size: 25px;
+    align-items: center;
+    text-align: justify;
+    padding: 20px;
+}
+/*--------social media---------*/
+
+#social-media
+{
+    padding: 20px;
+}
+#social-media p
+{
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 30px;
+
+}
+.social-icons img
+{
+width: 60px;
+transition: 0.5s;
+padding: 10px;
+}
+.social-icons a:hover img
+{
+transform: translateY(-10px);
+}
+/*--------footer section---------*/
+
+#footer
+{
+    background: rgb(16, 31, 50);
+    background: linear-gradient(161deg, rgba(16, 31, 50, 1) 52%, rgba(21, 73, 140, 1) 100%);
+    color: #fff;
+
+}
+.footer-img
+{
+    width: 100%;
+}
+.footer-logo
+{
+    width: 250px;
+    padding: 10px;
+    margin-left: -10px;
+    
+}
+.footer-box
+{
+    padding: 10px;
+    padding-top: 25px;
+}
